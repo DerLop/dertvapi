@@ -124,6 +124,10 @@
 	"nombreCanal": "Hit TV",
 	"urlImage": "http://directostv.teleame.com/wp-content/uploads/2016/01/Hit-TV.png"
 }, {
+	"UrlCanal": "http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8",
+	"nombreCanal": "10 Chatumal",
+	"urlImage": "https://i.vimeocdn.com/portrait/8846221_300x300.jpg"
+}, {
 	"UrlCanal": "https://player.twitch.tv/?allowfullscreen&!branding&!channelInfo&!muted&autoplay&channel=an_hann",
 	"nombreCanal": "FOX",
 	"urlImage": "http://www.supercable.com/supercable/wp-content/uploads/2018/11/FoxChannel_Color.png"
