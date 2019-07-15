@@ -128,6 +128,10 @@
 	"nombreCanal": "10 Chatumal",
 	"urlImage": "https://i.vimeocdn.com/portrait/8846221_300x300.jpg"
 }, {
+	"UrlCanal": "http://wms.tecnoxia.com:1935/8006/8006/playlist.m3u8",
+	"nombreCanal": "Telemar Campeche",
+	"urlImage": "http://telemarcampeche.com/wp-content/uploads/2017/05/logo-TELEMAR-big-110.png"
+}, {
 	"UrlCanal": "https://player.twitch.tv/?allowfullscreen&!branding&!channelInfo&!muted&autoplay&channel=an_hann",
 	"nombreCanal": "FOX",
 	"urlImage": "http://www.supercable.com/supercable/wp-content/uploads/2018/11/FoxChannel_Color.png"
