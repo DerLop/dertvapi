@@ -84,6 +84,10 @@
 	"nombreCanal": "Telemundo",
 	"urlImage": "https://yt3.ggpht.com/a-/AAuE7mC3FEvy9PJAhB8kTIqhjQ6ua1NZXHuXTCXnJg=s900-mo-c-c0xffffffff-rj-k-no"
 }, {
+	"UrlCanal": "http://162.244.81.181:1935/live//Stream1/playlist.m3u8",
+	"nombreCanal": "TVN Nicaragua",
+	"urlImage": "http://puu.sh/nvrur/ef232e1ab5.png"
+}, {
 	"UrlCanal": "http://d28d7tc1ojykcy.cloudfront.net/lared/smil:lared.smil/playlist.m3u8",
 	"nombreCanal": "La Red",
 	"urlImage": "http://venus.com.py/wp-content/themes/venusmedia/images/logos/logo-nav.png"
