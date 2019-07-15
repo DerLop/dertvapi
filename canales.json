@@ -67,6 +67,10 @@
 	"nombreCanal": "EITB",
 	"urlImage": "https://images14.eitb.eus/multimedia/recursos/generales/logo_eitbeus_cabecera.gif"
 }, {
+	"UrlCanal": "https://livestartover.atresmedia.com/antena3/2/br3/190405055437/86845/156320611.ts",
+	"nombreCanal": "Antena 3",
+	"urlImage": "http://www.brandemia.org/sites/default/files/inline/images/antena3_logo_nuevo.jpg"
+}, {
 	"UrlCanal": "http://162.241.190.126:1935/live/canal4/playlist.m3u8",
 	"nombreCanal": "Canal 4 MEX",
 	"urlImage": "https://archive.is/eXYVw/0e09ee3541464fd48d62b4cc505e4138f8e06e3b.png"
