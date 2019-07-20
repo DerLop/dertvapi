@@ -271,9 +271,14 @@
 	"UrlCanal": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8",
 	"nombreCanal": "Red Bull TV",
 	"urlImage": "http://www.brandemia.org/sites/default/files/inline/images/movistar_plus-logo.jpg"
+	
 }, {
 	"UrlCanal": "https://vergol.com/aplicacion/app1/playboy6.php",
 	"nombreCanal": "Playboy",
+	"urlImage": "https://ichef.bbci.co.uk/news/660/cpsprodpb/118E/production/_98049440_463ebdce-bddb-4485-a0ff-1dccc87b6a22.jpg"
+}, {
+	"UrlCanal": "http://163.172.131.190:8081/live/venus/chunks.m3u8?nimblesessionid=12152453&wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMC8yMDE5IDU6NTU6NTUgUE0maGFzaF92YWx1ZT1GWDV2MWhJc2VxNzRVWW1kZEVGVlJRPT0mdmFsaWRtaW51dGVzPTE4MA==",
+	"nombreCanal": "Playhouse",
 	"urlImage": "https://ichef.bbci.co.uk/news/660/cpsprodpb/118E/production/_98049440_463ebdce-bddb-4485-a0ff-1dccc87b6a22.jpg"
 },{
 	"UrlCanal": "http://192.240.114.58/movarandu/movarandu.stream/chunklist_w491820071.m3u8",
