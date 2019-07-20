@@ -55,6 +55,10 @@
 	"nombreCanal": "Venus Media",
 	"urlImage": "http://venus.com.py/wp-content/themes/venusmedia/images/logos/logo-nav.png"
 }, {
+	"UrlCanal": "http://54.94.130.159:1935/live/_definst_/ngrp:heistream_all/chunklist_w939007027_b331072.m3u8",
+	"nombreCanal": "Hei Música",
+	"urlImage": "http://heimusica.com/wp-content/uploads/2017/04/campa.png"
+},{
 	"UrlCanal": "http://192.240.114.58/sucesotv/sucesotv/chunklist_w1227661626.m3u8",
 	"nombreCanal": "Suceso Tv",
 	"urlImage": "http://venus.com.py/wp-content/themes/venusmedia/images/logos/logo-nav.png"
