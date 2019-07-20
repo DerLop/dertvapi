@@ -9,5 +9,5 @@
 }, {
 	"nombreRadio": "E40 91.1 FM",
 	"urlImage": "http://pwaimg.listenlive.co/ESTACION40_1053441_config_station_logo_image_1411678784.png",
-	"urlRadio": "http://14543.live.streamtheworld.com/ESTACION40AAC_SBM?sbmid=84dd4acd-ab3c-4b8b-c62a-c4b126d17575"
+	"urlRadio": "http://14543.live.streamtheworld.com/ESTACION40AAC.aac?pname=StandardPlayerV4&pversion=4.19.2-014&dist=triton-web&tdsdk=js-2.9&banners=300x250%2C728x90&sbmid=84dd4acd-ab3c-4b8b-c62a-c4b126d17575"
 }]
