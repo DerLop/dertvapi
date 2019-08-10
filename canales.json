@@ -43,6 +43,10 @@
 	"nombreCanal": "RCC",
 	"urlImage": "https://rcc.com.py/wp-content/uploads/2018/10/logo-retina-544x180-300x99.png"
 }, {
+	"UrlCanal": "https://59ce1298bfb98.streamlock.net:443/lobotv/lobotv/playlist.m3u8",
+	"nombreCanal": "Lobo TV",
+	"urlImage": "https://lobotv.com.py/gallery_gen/eb7412e3d622939bd8c90bf805701ab5_130x85.png"
+}, {
 	"UrlCanal": "http://201.217.3.212/TV/tvs/playlist.m3u8",
 	"nombreCanal": "TVS",
 	"urlImage": "https://cdn.mitvstatic.com/channels/38cd68ce-1bd2-4cdc-a7f4-8989be8f6291_m.jpg"
