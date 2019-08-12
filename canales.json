@@ -3,7 +3,7 @@
 	"nombreCanal": "Telefuturo",
 	"urlImage": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Logo_telefuturo.jpg"
 }, {
-	"UrlCanal": "https://py-snt-snt-live.ned.media/snt/smil:snt.smil/playlist.m3u8",
+	"UrlCanal": "https://py-snt-snt-live.ned.media/snt/smil:snt.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNTY1NjU1ODY1LCJzZXNzaW9uIjoiNDUuMTcyLjIyOC4xNDciLCJ3aGl0ZWxpc3QiOlsiNDUuMTcyLjIyOC4xNDciXX0sInNpZ25hdHVyZSI6IjZhNWMwMTdiODBhNmE1MTBjMWU5ZDk1MjRlNTU1YTVkZTU1YWViNWIifQ==",
 	"nombreCanal": "SNT",
 	"urlImage": "https://upload.wikimedia.org/wikipedia/commons/a/af/SNT_LOGO.jpg"
 }, {
