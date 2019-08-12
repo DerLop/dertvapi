@@ -59,7 +59,7 @@
 	"nombreCanal": "Venus Media",
 	"urlImage": "http://venus.com.py/wp-content/themes/venusmedia/images/logos/logo-nav.png"
 }, {
-	"UrlCanal": "http://54.94.130.159:1935/live/_definst_/ngrp:heistream_all/chunklist_w939007027_b1513472.m3u8",
+	"UrlCanal": "http://54.94.130.159:1935/live/_definst_/ngrp:heistream_all/playlist.m3u8",
 	"nombreCanal": "Hei Música",
 	"urlImage": "http://heimusica.com/wp-content/uploads/2017/04/campa.png"
 },{
