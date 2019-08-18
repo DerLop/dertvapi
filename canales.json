@@ -3,7 +3,7 @@
 	"nombreCanal": "Telefuturo",
 	"urlImage": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Logo_telefuturo.jpg"
 }, {
-	"UrlCanal": "https://py-snt-snt-live.ned.media/snt/smil:snt.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNTY1NjU1ODY1LCJzZXNzaW9uIjoiNDUuMTcyLjIyOC4xNDciLCJ3aGl0ZWxpc3QiOlsiNDUuMTcyLjIyOC4xNDciXX0sInNpZ25hdHVyZSI6IjZhNWMwMTdiODBhNmE1MTBjMWU5ZDk1MjRlNTU1YTVkZTU1YWViNWIifQ==",
+	"UrlCanal": "https://py-snt-snt-live.ned.media/snt/smil:snt.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNTY2MjQzODc2LCJzZXNzaW9uIjoiMTgxLjEyNS4xMjguMTM4Iiwid2hpdGVsaXN0IjpbIjE4MS4xMjUuMTI4LjEzOCJdfSwic2lnbmF0dXJlIjoiZjg2YjkzYjk4MmQ5ZjAyZTNlZjU4ZTA0Y2YyM2QxN2ZiNWViNWExNyJ9",
 	"nombreCanal": "SNT",
 	"urlImage": "https://upload.wikimedia.org/wikipedia/commons/a/af/SNT_LOGO.jpg"
 }, {
@@ -11,7 +11,7 @@
 	"nombreCanal": "RPC",
 	"urlImage": "https://upload.wikimedia.org/wikipedia/commons/7/77/Logo_de_RPC_2016.png"
 }, {
-	"UrlCanal": "http://45.55.127.106/live/unicanal_src.m3u8",
+	"UrlCanal": http://45.55.127.106/live/unicanal_src.m3u8",
 	"nombreCanal": "Unicanal",
 	"urlImage": "https://cdn.mitvstatic.com/channels/de161b6b-6495-4b7e-976e-df9da84a0409_m.jpg"
 }, {
