@@ -35,6 +35,14 @@
 	"nombreCanal": "TV Lambaré",
 	"urlImage": "http://www.vcc.com.py/img/tv-lambare.png"
 }, {
+	"UrlCanal": "https://59ce1298bfb98.streamlock.net/centraltv/centraltv/chunklist_w819781354.m3u8",
+	"nombreCanal": "Central TV",
+	"urlImage": "http://paraguayonline.net/wp-content/uploads/2018/12/centraltv.jpg"
+}, {
+	"UrlCanal": "https://59c5c86e10038.streamlock.net/8028/8028/chunklist_w1066522455.m3u8",
+	"nombreCanal": "Koa TV",
+	"urlImage": "https://www.koaradio.net/index_htm_files/111.jpg"
+}, {
 	"UrlCanal": "https://iframe.dacast.com/b/111090/c/475792",
 	"nombreCanal": "La Tele",
 	"urlImage": "https://www.latele.com.py/sximo/images/logo.png"
@@ -63,6 +71,10 @@
 	"nombreCanal": "Venus Media",
 	"urlImage": "http://venus.com.py/wp-content/themes/venusmedia/images/logos/logo-nav.png"
 }, {
+	"UrlCanal": "http://159.203.148.226/live/farra_src.m3u8",
+	"nombreCanal": "Farra TV",
+	"urlImage": "https://pbs.twimg.com/profile_images/1084854478203965442/2F3KDa1S_normal.jpg"
+},{
 	"UrlCanal": "http://54.94.130.159:1935/live/_definst_/ngrp:heistream_all/playlist.m3u8",
 	"nombreCanal": "Hei Música",
 	"urlImage": "http://heimusica.com/wp-content/uploads/2017/04/campa.png"
