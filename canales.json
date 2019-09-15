@@ -26,7 +26,11 @@
 	"UrlCanal": "https://iframe.dacast.com/b/111090/c/476802",
 	"nombreCanal": "Noticias PY",
 	"urlImage": "https://upload.wikimedia.org/wikipedia/commons/0/01/Noticias_PY.png"
-}, {
+},  {
+	"UrlCanal": "https://livestream.com/accounts/25680986/events/8424381/player?width=640&height=360&enableInfoAndActivity=true&defaultDrawer=&autoPlay=true&mute=false%22",
+	"nombreCanal": "Paraguay TV",
+	"urlImage": "https://twitter.com/ParaguayTVHD/photo"
+},{
 	"UrlCanal": "https://player.twitch.tv/?channel=mastvonline&html5",
 	"nombreCanal": "+ Encarnación",
 	"urlImage": "http://www.masencarnacion.com/assets/img/logo.png"
