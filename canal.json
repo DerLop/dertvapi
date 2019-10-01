@@ -1,7 +1,4 @@
 {
-	"categoria": "Paraguay",
-	"descripcion": "Canales de Paraguay",
-	"urlImagen": "https://www.frigochaco.com.py/media/images/tricolor.width-800.jpg",
 	"canales": [{
 		"UrlCanal": "http://174.138.118.252/live/canal13stream_src.m3u8",
 		"nombreCanal": "RPC",
@@ -10,5 +7,8 @@
 		"UrlCanal": "http://45.55.127.106/live/unicanal_src.m3u8",
 		"nombreCanal": "Unicanal",
 		"urlImage": "https://cdn.mitvstatic.com/channels/de161b6b-6495-4b7e-976e-df9da84a0409_m.jpg"
-	}]
+	}],
+	"categoria": "Paraguay",
+	"descripcion": "Canales del Paraguay",
+	"urlImagen": "https://www.frigochaco.com.py/media/images/tricolor.width-800.jpg"
 }
