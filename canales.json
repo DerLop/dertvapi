@@ -1,13 +1,13 @@
 [{
 	"canales": [{
-		"UrlCanal": "http://174.138.118.252/live/canal13stream_src.m3u8",
-		"nombreCanal": "RPC",
-		"urlImage": "https://upload.wikimedia.org/wikipedia/commons/7/77/Logo_de_RPC_2016.png"
-	}, {
-		"UrlCanal": "http://45.55.127.106/live/unicanal_src.m3u8",
-		"nombreCanal": "Unicanal",
-		"urlImage": "https://cdn.mitvstatic.com/channels/de161b6b-6495-4b7e-976e-df9da84a0409_m.jpg"
-	}],
+	"UrlCanal": "https://g1.mc-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_720p.m3u8",
+	"nombreCanal": "A24",
+	"urlImage": "http://www.tvargentinahd.com/img/a24.png"
+},{
+	"UrlCanal": "http://200.115.193.177/live/26hd-720/.m3u8",
+	"nombreCanal": "Canal 26",
+	"urlImage": "http://www.abctelefonos.com/images/comercios/289120_60288_original.jpg"
+}],
 	"categoria": "Argentina",
 	"descripcion": "Canales de la Argentina",
 	"urlImagen": "https://www.banderas-mundo.es/data/flags/w580/ar.png"
@@ -29,6 +29,10 @@
 	"UrlCanal": "http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANU/tu1_1.m3u8",
 	"nombreCanal": "Canal Uno",
 	"urlImage": "http://www.canaluno.com.co/sites/all/themes/senalcolombia/images/favicon/apple-icon.png"
+},{
+	"UrlCanal": "http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TCAF/tu1_1.m3u8?",
+	"nombreCanal": "telecafe",
+	"urlImage": "https://i1.wp.com/iptvsmartv.files.wordpress.com/2017/04/logo-telecafe-2014.png?ssl=1&w=450"
 }],
 	"categoria": "Colombia",
 	"descripcion": "Canales del Colombia",
@@ -50,12 +54,24 @@
 	"UrlCanal": "https://liveingesta118.cdnmedia.tv/badalonatvlive/smil:live.smil/playlist.m3u8",
 	"nombreCanal": "BDN",
 	"urlImage": "https://www.bdncom.cat/img/logoTeleb.png"
+},{
+	"UrlCanal": "https://rt-esp.secure.footprint.net/1102-inadv-qidx-2k_v3.m3u8?stream_start_offset=14000000&stream_dvr_window=0",
+	"nombreCanal": "RT Español",
+	"urlImage": "https://actualidad.rt.com/static/img/logo-top.png"
 }],
 	"categoria": "España",
 	"descripcion": "Canales de España",
 	"urlImagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/1200px-Flag_of_Spain.svg.png"
-},
- {
+},{
+	"canales": [{
+	"UrlCanal": "http://static.france24.com/live/F24_FR_LO_HLS/live_web.m3u8",
+	"nombreCanal": "France 24",
+	"urlImage": "http://venus.com.py/wp-content/themes/venusmedia/images/logos/logo-nav.png"
+}],
+	"categoria": "Francia",
+	"descripcion": "Canales de francia",
+	"urlImagen": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg"
+},{
 	"canales": [ {
 	"UrlCanal": "http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8",
 	"nombreCanal": "10 Chetumal",
