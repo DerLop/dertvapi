@@ -33,24 +33,41 @@
 	"UrlCanal": "https://livestartover.atresmedia.com/antena3/master.m3u8",
 	"nombreCanal": "Antena 3",
 	"urlImage": "http://www.brandemia.org/sites/default/files/inline/images/antena3_logo_nuevo.jpg"
+},{
+	"UrlCanal": "http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_2.m3u8",
+	"nombreCanal": "Hit TV",
+	"urlImage": "http://directostv.teleame.com/wp-content/uploads/2016/01/Hit-TV.png"
+}, {
+	"UrlCanal": "https://liveingesta118.cdnmedia.tv/badalonatvlive/smil:live.smil/playlist.m3u8",
+	"nombreCanal": "BDN",
+	"urlImage": "https://www.bdncom.cat/img/logoTeleb.png"
 }],
 	"categoria": "España",
 	"descripcion": "Canales de España",
 	"urlImagen": "https://media.bahag.com/assets/resp_product/22/31/2231678_23647415.jpg"
 },
  {
-	"canales": [{
-		"UrlCanal": "http://174.138.118.252/live/canal13stream_src.m3u8",
-		"nombreCanal": "RPC",
-		"urlImage": "https://upload.wikimedia.org/wikipedia/commons/7/77/Logo_de_RPC_2016.png"
-	}, {
-		"UrlCanal": "http://45.55.127.106/live/unicanal_src.m3u8",
-		"nombreCanal": "Unicanal",
-		"urlImage": "https://cdn.mitvstatic.com/channels/de161b6b-6495-4b7e-976e-df9da84a0409_m.jpg"
-	}],
-	"categoria": "Uruguay",
-	"descripcion": "Canales del Uruguay",
-	"urlImagen": "https://ih0.redbubble.net/image.504323497.7532/flat,550x550,075,f.u6.jpg"
+	"canales": [ {
+	"UrlCanal": "http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8",
+	"nombreCanal": "10 Chetumal",
+	"urlImage": "https://i.vimeocdn.com/portrait/8846221_300x300.jpg"
+}, {
+	"UrlCanal": "http://wms.tecnoxia.com:1935/8006/8006/playlist.m3u8",
+	"nombreCanal": "Telemar Campeche",
+	"urlImage": "http://telemarcampeche.com/wp-content/uploads/2017/05/logo-TELEMAR-big-110.png"
+}, {
+	"UrlCanal": "http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8",
+	"nombreCanal": "Milenio TV",
+	"urlImage": "http://puu.sh/mwdSw/26eea6807c.png"
+}, {
+	"UrlCanal": "http://wowzacontrol.com:1935/stream34/stream34/playlist.m3u8",
+	"nombreCanal": "RCG",
+	"urlImage": "https://www.rcg.com.mx/wp-content/uploads/2017/03/header4-1.png"
+}
+	],
+	"categoria": "México",
+	"descripcion": "Canales de México",
+	"urlImagen": "https://www.comprarbanderas.es/images/banderas/400/121-mexico_400px.jpg"
 },{
 	"canales": [{
 	"UrlCanal": "https://telefuturo.com.py/envivo",
