@@ -1,13 +1,85 @@
 [{
 	"canales": [{
-		"UrlCanal": "http://174.138.118.252/live/canal13stream_src.m3u8",
-		"nombreCanal": "RPC",
-		"urlImage": "https://upload.wikimedia.org/wikipedia/commons/7/77/Logo_de_RPC_2016.png"
-	}, {
-		"UrlCanal": "http://45.55.127.106/live/unicanal_src.m3u8",
-		"nombreCanal": "Unicanal",
-		"urlImage": "https://cdn.mitvstatic.com/channels/de161b6b-6495-4b7e-976e-df9da84a0409_m.jpg"
-	}],
+	"UrlCanal": "https://telefuturo.com.py/envivo",
+	"nombreCanal": "Telefuturo",
+	"urlImage": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Logo_telefuturo.jpg"
+}, {
+	"UrlCanal": "https://py-snt-snt-live.ned.media/snt/smil:snt.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNTY2MjQzODc2LCJzZXNzaW9uIjoiMTgxLjEyNS4xMjguMTM4Iiwid2hpdGVsaXN0IjpbIjE4MS4xMjUuMTI4LjEzOCJdfSwic2lnbmF0dXJlIjoiZjg2YjkzYjk4MmQ5ZjAyZTNlZjU4ZTA0Y2YyM2QxN2ZiNWViNWExNyJ9",
+	"nombreCanal": "SNT",
+	"urlImage": "https://upload.wikimedia.org/wikipedia/commons/a/af/SNT_LOGO.jpg"
+}, {
+	"UrlCanal": "http://174.138.118.252/live/canal13stream_src.m3u8",
+	"nombreCanal": "RPC",
+	"urlImage": "https://upload.wikimedia.org/wikipedia/commons/7/77/Logo_de_RPC_2016.png"
+}, {
+	"UrlCanal": "http://45.55.127.106/live/unicanal_src.m3u8",
+	"nombreCanal": "Unicanal",
+	"urlImage": "https://cdn.mitvstatic.com/channels/de161b6b-6495-4b7e-976e-df9da84a0409_m.jpg"
+}, {
+	"UrlCanal": "https://d3kp7jkmvusdbk.cloudfront.net/py/smil:p9.smil/playlist.m3u8",
+	"nombreCanal": "C9N",
+	"urlImage": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Canal_9_Noticias.jpg"
+}, {
+	"UrlCanal": "https://www.ustream.tv/embed/21235831?html5ui=1&autoplay=true",
+	"nombreCanal": "ABC TV",
+	"urlImage": "http://www.abc.com.py/plantillas/img/abctv-logo.png?0.201903281631"
+}, {
+	"UrlCanal": "https://iframe.dacast.com/b/111090/c/476802",
+	"nombreCanal": "Noticias PY",
+	"urlImage": "https://upload.wikimedia.org/wikipedia/commons/0/01/Noticias_PY.png"
+},  {
+	"UrlCanal": "https://livestream.com/accounts/25680986/events/8424381/player?width=640&height=360&enableInfoAndActivity=true&defaultDrawer=&autoPlay=true&mute=false%22",
+	"nombreCanal": "Paraguay TV",
+	"urlImage": "https://pbs.twimg.com/profile_images/1135556356772106240/nhAgXHt1_400x400.png"
+},{
+	"UrlCanal": "https://player.twitch.tv/?channel=mastvonline&html5",
+	"nombreCanal": "+ Encarnación",
+	"urlImage": "http://www.masencarnacion.com/assets/img/logo.png"
+}, {
+	"UrlCanal": "https://59ce1298bfb98.streamlock.net/unity/unity/chunklist_w1274135261.m3u8",
+	"nombreCanal": "TV Lambaré",
+	"urlImage": "http://www.vcc.com.py/img/tv-lambare.png"
+}, {
+	"UrlCanal": "https://59ce1298bfb98.streamlock.net/centraltv/centraltv/chunklist_w819781354.m3u8",
+	"nombreCanal": "Central TV",
+	"urlImage": "http://paraguayonline.net/wp-content/uploads/2018/12/centraltv.jpg"
+}, {
+	"UrlCanal": "https://59c5c86e10038.streamlock.net/8028/8028/chunklist_w1066522455.m3u8",
+	"nombreCanal": "Koa TV",
+	"urlImage": "https://www.koaradio.net/index_htm_files/111.jpg"
+}, {
+	"UrlCanal": "https://iframe.dacast.com/b/111090/c/475792",
+	"nombreCanal": "La Tele",
+	"urlImage": "https://www.latele.com.py/sximo/images/logo.png"
+}, {
+	"UrlCanal": "https://5bec49ed6f0fe.streamlock.net/live/_definst_/ngrp:GEN_all/chunklist_w250538781_b5382144.m3u8",
+	"nombreCanal": "GEN TV",
+	"urlImage": "http://www.okparaguay.com/wp-content/uploads/2018/05/gen-1024x535.jpg"
+}, {
+	"UrlCanal": "https://59ce1298bfb98.streamlock.net/rcctv02/rcctv02/chunklist_w351848598.m3u8",
+	"nombreCanal": "RCC",
+	"urlImage": "https://rcc.com.py/wp-content/uploads/2018/10/logo-retina-544x180-300x99.png"
+}, {
+	"UrlCanal": "https://59ce1298bfb98.streamlock.net:443/lobotv/lobotv/playlist.m3u8",
+	"nombreCanal": "Lobo TV",
+	"urlImage": "https://lobotv.com.py/gallery_gen/eb7412e3d622939bd8c90bf805701ab5_130x85.png"
+}, {
+	"UrlCanal": "http://201.217.3.212/TV/tvs/playlist.m3u8",
+	"nombreCanal": "TVS",
+	"urlImage": "https://cdn.mitvstatic.com/channels/38cd68ce-1bd2-4cdc-a7f4-8989be8f6291_m.jpg"
+}, {
+	"UrlCanal": "http://rds3.desdeparaguay.net/venusmedia/venusmedia/chunklist_w1808637968.m3u8",
+	"nombreCanal": "Venus Media",
+	"urlImage": "http://venus.com.py/wp-content/themes/venusmedia/images/logos/logo-nav.png"
+}, {
+	"UrlCanal": "http://159.203.148.226/live/farra_src.m3u8",
+	"nombreCanal": "Farra TV",
+	"urlImage": "https://pbs.twimg.com/profile_images/1084854478203965442/2F3KDa1S_normal.jpg"
+},{
+	"UrlCanal": "http://54.94.130.159:1935/live/_definst_/ngrp:heistream_all/playlist.m3u8",
+	"nombreCanal": "Hei Música",
+	"urlImage": "http://heimusica.com/wp-content/uploads/2017/04/campa.png"
+}],
 	"categoria": "Paraguay",
 	"descripcion": "Canales del Paraguay",
 	"urlImagen": "https://www.frigochaco.com.py/media/images/tricolor.width-800.jpg"
