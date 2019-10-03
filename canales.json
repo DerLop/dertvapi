@@ -209,5 +209,35 @@
 	"categoria": "Uruguay",
 	"descripcion": "Canales del Uruguay",
 	"urlImagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/1200px-Flag_of_Uruguay.svg.png"
+},{
+	"canales": [{
+	"UrlCanal": "https://59f1cbe63db89.streamlock.net:1443/dgrau/_definst_/dgrau/chunklist_w755952391.m3u8",
+	"nombreCanal": "All Sports",
+	"urlImage": "http://directostv.teleame.com/wp-content/uploads/2018/02/all-sports-100x70.png"
+}, {
+	"UrlCanal": "http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on",
+	"nombreCanal": "Real Madrid TV",
+	"urlImage": "https://www.realmadrid.com/StaticFiles/RealMadridResponsive/images/header_logo.png"
+}, {
+	"UrlCanal": "https://cdnlive.shooowit.net/rbetislive/smil:television.smil/playlist.m3u8",
+	"nombreCanal": "Betis TV HD",
+	"urlImage": "http://graph.facebook.com/realbetisbalompie/picture?width=320&height=320"
+}, {
+	"UrlCanal": "https://open.http.mp.streamamg.com/p/3001314/sp/300131400/playManifest/entryId/0_ye0b8tc0/format/applehttp/protocol/https/uiConfId/30026292/a.m3u8",
+	"nombreCanal": "Sevilla TV",
+	"urlImage": "http://graph.facebook.com/sevillafc/picture?width=320&height=320"
+},{
+	"UrlCanal": "http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8",
+	"nombreCanal": "MLB TV",
+	"urlImage": "http://www.brandemia.org/sites/default/files/inline/images/movistar_plus-logo.jpg"
+},{
+	"UrlCanal": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8",
+	"nombreCanal": "Red Bull TV",
+	"urlImage": "http://www.brandemia.org/sites/default/files/inline/images/movistar_plus-logo.jpg"
+	
+}],
+	"categoria": "Deportes",
+	"descripcion": "Canales de Deportes",
+	"urlImagen": "https://trucoslondres.com/wp-content/uploads/2017/04/Sports-9.png"
 }
 ]
