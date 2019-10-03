@@ -240,6 +240,10 @@
 	"nombreCanal": "TYC Sports",
 	"urlImage": "http://www.tvargentinahd.com/img/tycsport.png"
 },{
+	"UrlCanal": "https://cerbot.kastream.biz/edge/vera45bc3d346d4f9382f9fa6df54ece88c/chunks.m3u8",
+	"nombreCanal": "ESPN Brasil",
+	"urlImage": "https://img2.freepng.es/20181115/fbw/kisspng-espn-brasil-logo-espn-films-espn-inc-espn-play-claro-woodcrafts-5bed2bcd0337b3.2191231215422699010132.jpg"
+},{
 	"UrlCanal": "http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8",
 	"nombreCanal": "MLB TV",
 	"urlImage": "http://www.brandemia.org/sites/default/files/inline/images/movistar_plus-logo.jpg"
