@@ -25,6 +25,15 @@
 	"descripcion": "Canales del Brasil",
 	"urlImagen": "https://www.banderas-mundo.es/data/flags/w580/br.png"
 },{
+	"canales": [{
+	"UrlCanal": "http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANU/tu1_1.m3u8",
+	"nombreCanal": "Canal Uno",
+	"urlImage": "http://www.canaluno.com.co/sites/all/themes/senalcolombia/images/favicon/apple-icon.png"
+}],
+	"categoria": "Colombia",
+	"descripcion": "Canales del Colombia",
+	"urlImagen": "https://upload.wikimedia.org/wikipedia/commons/1/12/Bandera_de_colombia.png"
+},{
 	"canales": [ {
 	"UrlCanal": "http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8",
 	"nombreCanal": "EITB",
@@ -173,16 +182,12 @@
 	"urlImagen": "https://www.comprarbanderas.es/images/banderas/400/143-peru_400px.jpg"
 },{
 	"canales": [{
-		"UrlCanal": "http://174.138.118.252/live/canal13stream_src.m3u8",
-		"nombreCanal": "RPC",
-		"urlImage": "https://upload.wikimedia.org/wikipedia/commons/7/77/Logo_de_RPC_2016.png"
-	}, {
-		"UrlCanal": "http://45.55.127.106/live/unicanal_src.m3u8",
-		"nombreCanal": "Unicanal",
-		"urlImage": "https://cdn.mitvstatic.com/channels/de161b6b-6495-4b7e-976e-df9da84a0409_m.jpg"
-	}],
-	"categoria": "Paraguay",
-	"descripcion": "Canales del Paraguay",
-	"urlImagen": "https://www.frigochaco.com.py/media/images/tricolor.width-800.jpg"
+	"UrlCanal": "http://wowza.montevideo.com.uy:1936/live/_definst_/mvdstrem/chunklist_w1488231185.m3u8",
+	"nombreCanal": "Cana M URU",
+	"urlImage": "http://www.montevideo.com.uy/plantillas/temas17/canal-M-17/images/canalm@3.png"
+}],
+	"categoria": "Uruguay",
+	"descripcion": "Canales del Uruguay",
+	"urlImagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/1200px-Flag_of_Uruguay.svg.png"
 }
 ]
