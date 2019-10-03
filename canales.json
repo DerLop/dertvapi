@@ -25,6 +25,20 @@
 	"descripcion": "Canales del Brasil",
 	"urlImagen": "https://www.banderas-mundo.es/data/flags/w580/br.png"
 },{
+	"canales": [ {
+	"UrlCanal": "http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8",
+	"nombreCanal": "EITB",
+	"urlImage": "https://images14.eitb.eus/multimedia/recursos/generales/logo_eitbeus_cabecera.gif"
+}, {
+	"UrlCanal": "https://livestartover.atresmedia.com/antena3/master.m3u8",
+	"nombreCanal": "Antena 3",
+	"urlImage": "http://www.brandemia.org/sites/default/files/inline/images/antena3_logo_nuevo.jpg"
+}],
+	"categoria": "España",
+	"descripcion": "Canales de España",
+	"urlImagen": "https://media.bahag.com/assets/resp_product/22/31/2231678_23647415.jpg"
+},
+ {
 	"canales": [{
 		"UrlCanal": "http://174.138.118.252/live/canal13stream_src.m3u8",
 		"nombreCanal": "RPC",
@@ -125,17 +139,21 @@
 },
  {
 	"canales": [{
-		"UrlCanal": "http://174.138.118.252/live/canal13stream_src.m3u8",
-		"nombreCanal": "RPC",
-		"urlImage": "https://upload.wikimedia.org/wikipedia/commons/7/77/Logo_de_RPC_2016.png"
-	}, {
-		"UrlCanal": "http://45.55.127.106/live/unicanal_src.m3u8",
-		"nombreCanal": "Unicanal",
-		"urlImage": "https://cdn.mitvstatic.com/channels/de161b6b-6495-4b7e-976e-df9da84a0409_m.jpg"
-	}],
-	"categoria": "Paraguay",
-	"descripcion": "Canales del Paraguay",
-	"urlImagen": "https://www.frigochaco.com.py/media/images/tricolor.width-800.jpg"
+	"UrlCanal": "http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8",
+	"nombreCanal": "BHTV",
+	"urlImage": "https://pbs.twimg.com/profile_images/3663601877/9f46b5977e2c9d2e370e46d686a95ef7_400x400.jpeg"
+},{
+	"UrlCanal": "https://v8.ciclano.io:1443/visionnoticias/_definst_/visionnoticias/chunklist_w796291857.m3u8",
+	"nombreCanal": "VNP",
+	"urlImage": "http://www.visiontv.com.pe/vnp.pe/images/test/logo_23.png"
+}, {
+	"UrlCanal": " https://v8.ciclano.io:1443/visionmusica/_definst_/visionmusica/chunklist_w838516394.m3u8",
+	"nombreCanal": "Vision TV",
+	"urlImage": "http://www.visiontv.com.pe/vns.pe/images/icons/logo%20de%20vision%20tv%20.png"
+}],
+	"categoria": "Perú",
+	"descripcion": "Canales de Perú",
+	"urlImagen": "https://www.comprarbanderas.es/images/banderas/400/143-peru_400px.jpg"
 },{
 	"canales": [{
 		"UrlCanal": "http://174.138.118.252/live/canal13stream_src.m3u8",
