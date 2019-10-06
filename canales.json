@@ -67,6 +67,15 @@
 	"descripcion": "Canales de España",
 	"urlImagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/1200px-Flag_of_Spain.svg.png"
 },{
+	"canales": [ {
+	"UrlCanal": "http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8",
+	"nombreCanal": "Music Choice",
+	"urlImage": "http://imgur.com/y1YCl0M.png"
+}],
+	"categoria": "EE.UU",
+	"descripcion": "Canales de los Estado Unidos",
+	"urlImagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/1200px-Flag_of_the_United_States.svg.png"
+},{
 	"canales": [{
 	"UrlCanal": "http://static.france24.com/live/F24_FR_LO_HLS/live_web.m3u8",
 	"nombreCanal": "France 24",
@@ -106,6 +115,15 @@
 	"categoria": "México",
 	"descripcion": "Canales de México",
 	"urlImagen": "https://www.comprarbanderas.es/images/banderas/400/121-mexico_400px.jpg"
+},{
+	"canales": [{
+	"UrlCanal": "http://162.244.81.181:1935/live//Stream1/playlist.m3u8",
+	"nombreCanal": "TVN Nicaragua",
+	"urlImage": "http://puu.sh/nvrur/ef232e1ab5.png"
+}],
+	"categoria": "Nicaragua",
+	"descripcion": "Canales de Nicaragua",
+	"urlImagen": "https://images-na.ssl-images-amazon.com/images/I/61JKqSIDi7L._SX466_.jpg"
 },{
 	"canales": [{
 	"UrlCanal": "https://telefuturo.com.py/envivo",
@@ -211,6 +229,15 @@
 	"urlImagen": "https://www.comprarbanderas.es/images/banderas/400/143-peru_400px.jpg"
 },{
 	"canales": [{
+	"UrlCanal": "http://wow01.105.net/live/virgin1/chunklist_w25732073.m3u8",
+	"nombreCanal": "Virgin TV music",
+	"urlImage": "https://i3.radionomy.com/radios/400/48a8df4c-f063-4b46-8e1b-b5a1e65ed446.jpg"
+}],
+	"categoria": "Reino Unido",
+	"descripcion": "Canales del Reino Unido",
+	"urlImagen": "https://turismo.org/wp-content/uploads/2010/09/Bandera-del-Reino-Unido-760x400.png"
+},{
+	"canales": [{
 	"UrlCanal": "http://wowza.montevideo.com.uy:1936/live/_definst_/mvdstrem/chunklist_w1488231185.m3u8",
 	"nombreCanal": "Cana M URU",
 	"urlImage": "http://www.montevideo.com.uy/plantillas/temas17/canal-M-17/images/canalm@3.png"
@@ -251,8 +278,13 @@
 	"UrlCanal": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8",
 	"nombreCanal": "Red Bull TV",
 	"urlImage": "http://www.brandemia.org/sites/default/files/inline/images/movistar_plus-logo.jpg"
+{
+	"UrlCanal": "https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8",
+	"nombreCanal": "Fox Sports News",
+	"urlImage": "https://pbs.twimg.com/profile_images/572924972104839168/QfSnx_Mu_400x400.png"
 	
-}],
+}	
+},],
 	"categoria": "Deportes",
 	"descripcion": "Canales de Deportes",
 	"urlImagen": "https://trucoslondres.com/wp-content/uploads/2017/04/Sports-9.png"
