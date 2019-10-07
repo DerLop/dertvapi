@@ -1,292 +1,291 @@
 [{
-	"canales": [{
-	"UrlCanal": "https://g1.mc-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_720p.m3u8",
-	"nombreCanal": "A24",
-	"urlImage": "http://www.tvargentinahd.com/img/a24.png"
-},{
-	"UrlCanal": "http://200.115.193.177/live/26hd-720/.m3u8",
-	"nombreCanal": "Canal 26",
-	"urlImage": "http://www.abctelefonos.com/images/comercios/289120_60288_original.jpg"
-}],
-	"categoria": "Argentina",
-	"descripcion": "Canales de la Argentina",
-	"urlImagen": "https://www.banderas-mundo.es/data/flags/w580/ar.png"
-},{
-	"canales": [{
-	"UrlCanal": "https://59f1cbe63db89.streamlock.net:1443/dgrau/_definst_/dgrau/chunklist_w755952391.m3u8",
-	"nombreCanal": "All Sports",
-	"urlImage": "http://directostv.teleame.com/wp-content/uploads/2018/02/all-sports-100x70.png"
-},{
-		"UrlCanal": "http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w625566469.m3u8",
-		"nombreCanal": "Rede TV",
-		"urlImage": "https://portal.comunique-se.com.br/wp-content/uploads/2018/02/rede-TV-990x556.jpg"
+		"canales": [{
+			"UrlCanal": "https://g1.mc-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_720p.m3u8",
+			"nombreCanal": "A24",
+			"urlImage": "http://www.tvargentinahd.com/img/a24.png"
+		}, {
+			"UrlCanal": "http://200.115.193.177/live/26hd-720/.m3u8",
+			"nombreCanal": "Canal 26",
+			"urlImage": "http://www.abctelefonos.com/images/comercios/289120_60288_original.jpg"
+		}],
+		"categoria": "Argentina",
+		"descripcion": "Canales de la Argentina",
+		"urlImagen": "https://www.banderas-mundo.es/data/flags/w580/ar.png"
 	}, {
-		"UrlCanal": "http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/chunklist_w1862068339.m3u8",
-		"nombreCanal": "SBT",
-		"urlImage": "https://upload.wikimedia.org/wikipedia/en/thumb/8/84/Sistema_Brasileiro_de_Televis%C3%A3o.svg/1200px-Sistema_Brasileiro_de_Televis%C3%A3o.svg.png"
-	}],
-	"categoria": "Brasil",
-	"descripcion": "Canales del Brasil",
-	"urlImagen": "https://www.banderas-mundo.es/data/flags/w580/br.png"
-},{
-	"canales": [{
-	"UrlCanal": "http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANU/tu1_1.m3u8",
-	"nombreCanal": "Canal Uno",
-	"urlImage": "http://www.canaluno.com.co/sites/all/themes/senalcolombia/images/favicon/apple-icon.png"
-},{
-	"UrlCanal": "http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TCAF/tu1_1.m3u8?",
-	"nombreCanal": "telecafé",
-	"urlImage": "https://i1.wp.com/iptvsmartv.files.wordpress.com/2017/04/logo-telecafe-2014.png?ssl=1&w=450"
-}],
-	"categoria": "Colombia",
-	"descripcion": "Canales del Colombia",
-	"urlImagen": "https://upload.wikimedia.org/wikipedia/commons/1/12/Bandera_de_colombia.png"
-},{
-	"canales": [ {
-	"UrlCanal": "http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8",
-	"nombreCanal": "EITB",
-	"urlImage": "https://images14.eitb.eus/multimedia/recursos/generales/logo_eitbeus_cabecera.gif"
-}, {
-	"UrlCanal": "https://livestartover.atresmedia.com/antena3/master.m3u8",
-	"nombreCanal": "Antena 3",
-	"urlImage": "http://www.brandemia.org/sites/default/files/inline/images/antena3_logo_nuevo.jpg"
-},{
-	"UrlCanal": "http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_2.m3u8",
-	"nombreCanal": "Hit TV",
-	"urlImage": "http://directostv.teleame.com/wp-content/uploads/2016/01/Hit-TV.png"
-}, {
-	"UrlCanal": "https://liveingesta118.cdnmedia.tv/badalonatvlive/smil:live.smil/playlist.m3u8",
-	"nombreCanal": "BDN",
-	"urlImage": "https://www.bdncom.cat/img/logoTeleb.png"
-},{
-	"UrlCanal": "https://rt-esp.secure.footprint.net/1102-inadv-qidx-2k_v3.m3u8?stream_start_offset=14000000&stream_dvr_window=0",
-	"nombreCanal": "RT Español",
-	"urlImage": "https://actualidad.rt.com/static/img/logo-top.png"
-}],
-	"categoria": "España",
-	"descripcion": "Canales de España",
-	"urlImagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/1200px-Flag_of_Spain.svg.png"
-},{
-	"canales": [ {
-	"UrlCanal": "http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8",
-	"nombreCanal": "Music Choice",
-	"urlImage": "http://imgur.com/y1YCl0M.png"
-}],
-	"categoria": "EE.UU",
-	"descripcion": "Canales de los Estado Unidos",
-	"urlImagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/1200px-Flag_of_the_United_States.svg.png"
-},{
-	"canales": [{
-	"UrlCanal": "http://static.france24.com/live/F24_FR_LO_HLS/live_web.m3u8",
-	"nombreCanal": "France 24",
-	"urlImage": "http://venus.com.py/wp-content/themes/venusmedia/images/logos/logo-nav.png"
-}],
-	"categoria": "Francia",
-	"descripcion": "Canales de francia",
-	"urlImagen": "https://simbologiadelmundo.com/wp-content/uploads/2016/06/r-francia.png"
-},{
-	"canales": [ {
-	"UrlCanal": "http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8",
-	"nombreCanal": "10 Chetumal",
-	"urlImage": "https://i.vimeocdn.com/portrait/8846221_300x300.jpg"
-}, {
-	"UrlCanal": "http://wms.tecnoxia.com:1935/8006/8006/playlist.m3u8",
-	"nombreCanal": "Telemar Campeche",
-	"urlImage": "http://telemarcampeche.com/wp-content/uploads/2017/05/logo-TELEMAR-big-110.png"
-}, {
-	"UrlCanal": "http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8",
-	"nombreCanal": "Milenio TV",
-	"urlImage": "http://puu.sh/mwdSw/26eea6807c.png"
-}, {
-	"UrlCanal": "http://wowzacontrol.com:1935/stream34/stream34/playlist.m3u8",
-	"nombreCanal": "RCG",
-	"urlImage": "https://www.rcg.com.mx/wp-content/uploads/2017/03/header4-1.png"
-},{
-	"UrlCanal": "http://162.241.190.126:1935/live/canal4/playlist.m3u8",
-	"nombreCanal": "Canal 4 MEX",
-	"urlImage": "https://archive.is/eXYVw/0e09ee3541464fd48d62b4cc505e4138f8e06e3b.png"
-	
-},{
-	"UrlCanal": "http://mdstrm.com/live-stream-playlist_400/57b4dbf5dbbfc8f16bb63ce1.m3u8?",
-	"nombreCanal": "Multimedios Monterrey",
-	"urlImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Multimedios_Television.png/200px-Multimedios_Television.png"
-}
-	],
-	"categoria": "México",
-	"descripcion": "Canales de México",
-	"urlImagen": "https://www.comprarbanderas.es/images/banderas/400/121-mexico_400px.jpg"
-},{
-	"canales": [{
-	"UrlCanal": "http://162.244.81.181:1935/live//Stream1/playlist.m3u8",
-	"nombreCanal": "TVN Nicaragua",
-	"urlImage": "http://puu.sh/nvrur/ef232e1ab5.png"
-}],
-	"categoria": "Nicaragua",
-	"descripcion": "Canales de Nicaragua",
-	"urlImagen": "https://images-na.ssl-images-amazon.com/images/I/61JKqSIDi7L._SX466_.jpg"
-},{
-	"canales": [{
-	"UrlCanal": "https://telefuturo.com.py/envivo",
-	"nombreCanal": "Telefuturo",
-	"urlImage": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Logo_telefuturo.jpg"
-}, {
-	"UrlCanal": "https://player.twitch.tv/?allowfullscreen&!branding&!channelInfo&!muted&autoplay&channel=snt003",
-	"nombreCanal": "SNT",
-	"urlImage": "https://upload.wikimedia.org/wikipedia/commons/a/af/SNT_LOGO.jpg"
-}, {
-	"UrlCanal": "http://174.138.118.252/live/canal13stream_src.m3u8",
-	"nombreCanal": "RPC",
-	"urlImage": "https://upload.wikimedia.org/wikipedia/commons/7/77/Logo_de_RPC_2016.png"
-}, {
-	"UrlCanal": "http://45.55.127.106/live/unicanal_src.m3u8",
-	"nombreCanal": "Unicanal",
-	"urlImage": "https://cdn.mitvstatic.com/channels/de161b6b-6495-4b7e-976e-df9da84a0409_m.jpg"
-}, {
-	"UrlCanal": "https://d3kp7jkmvusdbk.cloudfront.net/py/smil:p9.smil/playlist.m3u8",
-	"nombreCanal": "C9N",
-	"urlImage": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Canal_9_Noticias.jpg"
-}, {
-	"UrlCanal": "https://www.ustream.tv/embed/21235831?html5ui=1&autoplay=true",
-	"nombreCanal": "ABC TV",
-	"urlImage": "http://www.abc.com.py/plantillas/img/abctv-logo.png?0.201903281631"
-}, {
-	"UrlCanal": "https://iframe.dacast.com/b/111090/c/476802",
-	"nombreCanal": "Noticias PY",
-	"urlImage": "https://upload.wikimedia.org/wikipedia/commons/0/01/Noticias_PY.png"
-},  {
-	"UrlCanal": "https://livestream.com/accounts/25680986/events/8424381/player?width=640&height=360&enableInfoAndActivity=true&defaultDrawer=&autoPlay=true&mute=false%22",
-	"nombreCanal": "Paraguay TV",
-	"urlImage": "https://pbs.twimg.com/profile_images/1135556356772106240/nhAgXHt1_400x400.png"
-},{
-	"UrlCanal": "https://player.twitch.tv/?allowfullscreen&!branding&!channelInfo&!muted&autoplay&channel=mastvonline",
-	"nombreCanal": "+ Encarnación",
-	"urlImage": "http://www.masencarnacion.com/assets/img/logo.png"
-}, {
-	"UrlCanal": "https://59ce1298bfb98.streamlock.net/unity/unity/chunklist_w1274135261.m3u8",
-	"nombreCanal": "TV Lambaré",
-	"urlImage": "http://www.vcc.com.py/img/tv-lambare.png"
-}, {
-	"UrlCanal": "https://59ce1298bfb98.streamlock.net/centraltv/centraltv/chunklist_w819781354.m3u8",
-	"nombreCanal": "Central TV",
-	"urlImage": "http://paraguayonline.net/wp-content/uploads/2018/12/centraltv.jpg"
-}, {
-	"UrlCanal": "https://59c5c86e10038.streamlock.net/8028/8028/chunklist_w1066522455.m3u8",
-	"nombreCanal": "Koa TV",
-	"urlImage": "https://www.koaradio.net/index_htm_files/111.jpg"
-}, {
-	"UrlCanal": "https://iframe.dacast.com/b/111090/c/475792",
-	"nombreCanal": "La Tele",
-	"urlImage": "https://www.latele.com.py/sximo/images/logo.png"
-}, {
-	"UrlCanal": "https://5bec49ed6f0fe.streamlock.net/live/_definst_/ngrp:GEN_all/chunklist_w250538781_b5382144.m3u8",
-	"nombreCanal": "GEN TV",
-	"urlImage": "http://www.okparaguay.com/wp-content/uploads/2018/05/gen-1024x535.jpg"
-}, {
-	"UrlCanal": "https://59ce1298bfb98.streamlock.net/rcctv02/rcctv02/chunklist_w351848598.m3u8",
-	"nombreCanal": "RCC",
-	"urlImage": "https://rcc.com.py/wp-content/uploads/2018/10/logo-retina-544x180-300x99.png"
-}, {
-	"UrlCanal": "https://59ce1298bfb98.streamlock.net:443/lobotv/lobotv/playlist.m3u8",
-	"nombreCanal": "Lobo TV",
-	"urlImage": "https://lobotv.com.py/gallery_gen/eb7412e3d622939bd8c90bf805701ab5_130x85.png"
-}, {
-	"UrlCanal": "http://201.217.3.212/TV/tvs/playlist.m3u8",
-	"nombreCanal": "TVS",
-	"urlImage": "https://cdn.mitvstatic.com/channels/38cd68ce-1bd2-4cdc-a7f4-8989be8f6291_m.jpg"
-}, {
-	"UrlCanal": "http://rds3.desdeparaguay.net/venusmedia/venusmedia/chunklist_w1808637968.m3u8",
-	"nombreCanal": "Venus Media",
-	"urlImage": "http://venus.com.py/wp-content/themes/venusmedia/images/logos/logo-nav.png"
-}, {
-	"UrlCanal": "http://159.203.148.226/live/farra_src.m3u8",
-	"nombreCanal": "Farra TV",
-	"urlImage": "https://pbs.twimg.com/profile_images/1084854478203965442/2F3KDa1S_normal.jpg"
-},{
-	"UrlCanal": "http://54.94.130.159:1935/live/_definst_/ngrp:heistream_all/playlist.m3u8",
-	"nombreCanal": "Hei Música",
-	"urlImage": "http://heimusica.com/wp-content/uploads/2017/04/campa.png"
-}],
-	"categoria": "Paraguay",
-	"descripcion": "Canales del Paraguay",
-	"urlImagen": "https://www.frigochaco.com.py/media/images/tricolor.width-800.jpg"
-},
- {
-	"canales": [{
-	"UrlCanal": "http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8",
-	"nombreCanal": "BHTV",
-	"urlImage": "https://pbs.twimg.com/profile_images/3663601877/9f46b5977e2c9d2e370e46d686a95ef7_400x400.jpeg"
-},{
-	"UrlCanal": "https://v8.ciclano.io:1443/visionnoticias/_definst_/visionnoticias/chunklist_w796291857.m3u8",
-	"nombreCanal": "VNP",
-	"urlImage": "http://www.visiontv.com.pe/vnp.pe/images/test/logo_23.png"
-}, {
-	"UrlCanal": " https://v8.ciclano.io:1443/visionmusica/_definst_/visionmusica/chunklist_w838516394.m3u8",
-	"nombreCanal": "Vision TV",
-	"urlImage": "http://www.visiontv.com.pe/vns.pe/images/icons/logo%20de%20vision%20tv%20.png"
-}],
-	"categoria": "Perú",
-	"descripcion": "Canales de Perú",
-	"urlImagen": "https://www.comprarbanderas.es/images/banderas/400/143-peru_400px.jpg"
-},{
-	"canales": [{
-	"UrlCanal": "http://wow01.105.net/live/virgin1/chunklist_w25732073.m3u8",
-	"nombreCanal": "Virgin TV music",
-	"urlImage": "https://i3.radionomy.com/radios/400/48a8df4c-f063-4b46-8e1b-b5a1e65ed446.jpg"
-}],
-	"categoria": "Reino Unido",
-	"descripcion": "Canales del Reino Unido",
-	"urlImagen": "https://turismo.org/wp-content/uploads/2010/09/Bandera-del-Reino-Unido-760x400.png"
-},{
-	"canales": [{
-	"UrlCanal": "http://wowza.montevideo.com.uy:1936/live/_definst_/mvdstrem/chunklist_w1488231185.m3u8",
-	"nombreCanal": "Cana M URU",
-	"urlImage": "http://www.montevideo.com.uy/plantillas/temas17/canal-M-17/images/canalm@3.png"
-}],
-	"categoria": "Uruguay",
-	"descripcion": "Canales del Uruguay",
-	"urlImagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/1200px-Flag_of_Uruguay.svg.png"
-},{
-	"canales": [{
-	"UrlCanal": "https://59f1cbe63db89.streamlock.net:1443/dgrau/_definst_/dgrau/chunklist_w755952391.m3u8",
-	"nombreCanal": "All Sports",
-	"urlImage": "http://directostv.teleame.com/wp-content/uploads/2018/02/all-sports-100x70.png"
-}, {
-	"UrlCanal": "http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on",
-	"nombreCanal": "Real Madrid TV",
-	"urlImage": "https://www.realmadrid.com/StaticFiles/RealMadridResponsive/images/header_logo.png"
-}, {
-	"UrlCanal": "https://cdnlive.shooowit.net/rbetislive/smil:television.smil/playlist.m3u8",
-	"nombreCanal": "Betis TV HD",
-	"urlImage": "http://graph.facebook.com/realbetisbalompie/picture?width=320&height=320"
-}, {
-	"UrlCanal": "https://open.http.mp.streamamg.com/p/3001314/sp/300131400/playManifest/entryId/0_ye0b8tc0/format/applehttp/protocol/https/uiConfId/30026292/a.m3u8",
-	"nombreCanal": "Sevilla TV",
-	"urlImage": "http://graph.facebook.com/sevillafc/picture?width=320&height=320"
-},{
-	"UrlCanal": "http://sv1.futbollibre.net/tyc.html?310qns",
-	"nombreCanal": "TYC Sports",
-	"urlImage": "http://www.tvargentinahd.com/img/tycsport.png"
-},{
-	"UrlCanal": "https://cerbot.kastream.biz/edge/vera45bc3d346d4f9382f9fa6df54ece88c/chunks.m3u8",
-	"nombreCanal": "ESPN Brasil",
-	"urlImage": "https://img2.freepng.es/20181115/fbw/kisspng-espn-brasil-logo-espn-films-espn-inc-espn-play-claro-woodcrafts-5bed2bcd0337b3.2191231215422699010132.jpg"
-},{
-	"UrlCanal": "http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8",
-	"nombreCanal": "MLB TV",
-	"urlImage": "http://www.brandemia.org/sites/default/files/inline/images/movistar_plus-logo.jpg"
-},{
-	"UrlCanal": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8",
-	"nombreCanal": "Red Bull TV",
-	"urlImage": "http://www.brandemia.org/sites/default/files/inline/images/movistar_plus-logo.jpg"
-{
-	"UrlCanal": "https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8",
-	"nombreCanal": "Fox Sports News",
-	"urlImage": "https://pbs.twimg.com/profile_images/572924972104839168/QfSnx_Mu_400x400.png"
-	
-}	
-},],
-	"categoria": "Deportes",
-	"descripcion": "Canales de Deportes",
-	"urlImagen": "https://trucoslondres.com/wp-content/uploads/2017/04/Sports-9.png"
-}
+		"canales": [{
+			"UrlCanal": "https://59f1cbe63db89.streamlock.net:1443/dgrau/_definst_/dgrau/chunklist_w755952391.m3u8",
+			"nombreCanal": "All Sports",
+			"urlImage": "http://directostv.teleame.com/wp-content/uploads/2018/02/all-sports-100x70.png"
+		}, {
+			"UrlCanal": "http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w625566469.m3u8",
+			"nombreCanal": "Rede TV",
+			"urlImage": "https://portal.comunique-se.com.br/wp-content/uploads/2018/02/rede-TV-990x556.jpg"
+		}, {
+			"UrlCanal": "http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/chunklist_w1862068339.m3u8",
+			"nombreCanal": "SBT",
+			"urlImage": "https://upload.wikimedia.org/wikipedia/en/thumb/8/84/Sistema_Brasileiro_de_Televis%C3%A3o.svg/1200px-Sistema_Brasileiro_de_Televis%C3%A3o.svg.png"
+		}],
+		"categoria": "Brasil",
+		"descripcion": "Canales del Brasil",
+		"urlImagen": "https://www.banderas-mundo.es/data/flags/w580/br.png"
+	}, {
+		"canales": [{
+			"UrlCanal": "http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANU/tu1_1.m3u8",
+			"nombreCanal": "Canal Uno",
+			"urlImage": "http://www.canaluno.com.co/sites/all/themes/senalcolombia/images/favicon/apple-icon.png"
+		}, {
+			"UrlCanal": "http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TCAF/tu1_1.m3u8?",
+			"nombreCanal": "telecafé",
+			"urlImage": "https://i1.wp.com/iptvsmartv.files.wordpress.com/2017/04/logo-telecafe-2014.png?ssl=1&w=450"
+		}],
+		"categoria": "Colombia",
+		"descripcion": "Canales del Colombia",
+		"urlImagen": "https://upload.wikimedia.org/wikipedia/commons/1/12/Bandera_de_colombia.png"
+	}, {
+		"canales": [{
+			"UrlCanal": "http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8",
+			"nombreCanal": "EITB",
+			"urlImage": "https://images14.eitb.eus/multimedia/recursos/generales/logo_eitbeus_cabecera.gif"
+		}, {
+			"UrlCanal": "https://livestartover.atresmedia.com/antena3/master.m3u8",
+			"nombreCanal": "Antena 3",
+			"urlImage": "http://www.brandemia.org/sites/default/files/inline/images/antena3_logo_nuevo.jpg"
+		}, {
+			"UrlCanal": "http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_2.m3u8",
+			"nombreCanal": "Hit TV",
+			"urlImage": "http://directostv.teleame.com/wp-content/uploads/2016/01/Hit-TV.png"
+		}, {
+			"UrlCanal": "https://liveingesta118.cdnmedia.tv/badalonatvlive/smil:live.smil/playlist.m3u8",
+			"nombreCanal": "BDN",
+			"urlImage": "https://www.bdncom.cat/img/logoTeleb.png"
+		}, {
+			"UrlCanal": "https://rt-esp.secure.footprint.net/1102-inadv-qidx-2k_v3.m3u8?stream_start_offset=14000000&stream_dvr_window=0",
+			"nombreCanal": "RT Español",
+			"urlImage": "https://actualidad.rt.com/static/img/logo-top.png"
+		}],
+		"categoria": "España",
+		"descripcion": "Canales de España",
+		"urlImagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/1200px-Flag_of_Spain.svg.png"
+	}, {
+		"canales": [{
+			"UrlCanal": "http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8",
+			"nombreCanal": "Music Choice",
+			"urlImage": "http://imgur.com/y1YCl0M.png"
+		}],
+		"categoria": "EE.UU",
+		"descripcion": "Canales de los Estado Unidos",
+		"urlImagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/1200px-Flag_of_the_United_States.svg.png"
+	}, {
+		"canales": [{
+			"UrlCanal": "http://static.france24.com/live/F24_FR_LO_HLS/live_web.m3u8",
+			"nombreCanal": "France 24",
+			"urlImage": "http://venus.com.py/wp-content/themes/venusmedia/images/logos/logo-nav.png"
+		}],
+		"categoria": "Francia",
+		"descripcion": "Canales de francia",
+		"urlImagen": "https://simbologiadelmundo.com/wp-content/uploads/2016/06/r-francia.png"
+	}, {
+		"canales": [{
+			"UrlCanal": "http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8",
+			"nombreCanal": "10 Chetumal",
+			"urlImage": "https://i.vimeocdn.com/portrait/8846221_300x300.jpg"
+		}, {
+			"UrlCanal": "http://wms.tecnoxia.com:1935/8006/8006/playlist.m3u8",
+			"nombreCanal": "Telemar Campeche",
+			"urlImage": "http://telemarcampeche.com/wp-content/uploads/2017/05/logo-TELEMAR-big-110.png"
+		}, {
+			"UrlCanal": "http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8",
+			"nombreCanal": "Milenio TV",
+			"urlImage": "http://puu.sh/mwdSw/26eea6807c.png"
+		}, {
+			"UrlCanal": "http://wowzacontrol.com:1935/stream34/stream34/playlist.m3u8",
+			"nombreCanal": "RCG",
+			"urlImage": "https://www.rcg.com.mx/wp-content/uploads/2017/03/header4-1.png"
+		}, {
+			"UrlCanal": "http://162.241.190.126:1935/live/canal4/playlist.m3u8",
+			"nombreCanal": "Canal 4 MEX",
+			"urlImage": "https://archive.is/eXYVw/0e09ee3541464fd48d62b4cc505e4138f8e06e3b.png"
+
+		}, {
+			"UrlCanal": "http://mdstrm.com/live-stream-playlist_400/57b4dbf5dbbfc8f16bb63ce1.m3u8?",
+			"nombreCanal": "Multimedios Monterrey",
+			"urlImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Multimedios_Television.png/200px-Multimedios_Television.png"
+		}],
+		"categoria": "México",
+		"descripcion": "Canales de México",
+		"urlImagen": "https://www.comprarbanderas.es/images/banderas/400/121-mexico_400px.jpg"
+	}, {
+		"canales": [{
+			"UrlCanal": "http://162.244.81.181:1935/live//Stream1/playlist.m3u8",
+			"nombreCanal": "TVN Nicaragua",
+			"urlImage": "http://puu.sh/nvrur/ef232e1ab5.png"
+		}],
+		"categoria": "Nicaragua",
+		"descripcion": "Canales de Nicaragua",
+		"urlImagen": "https://images-na.ssl-images-amazon.com/images/I/61JKqSIDi7L._SX466_.jpg"
+	}, {
+		"canales": [{
+			"UrlCanal": "https://telefuturo.com.py/envivo",
+			"nombreCanal": "Telefuturo",
+			"urlImage": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Logo_telefuturo.jpg"
+		}, {
+			"UrlCanal": "https://player.twitch.tv/?allowfullscreen&!branding&!channelInfo&!muted&autoplay&channel=snt003",
+			"nombreCanal": "SNT",
+			"urlImage": "https://upload.wikimedia.org/wikipedia/commons/a/af/SNT_LOGO.jpg"
+		}, {
+			"UrlCanal": "http://174.138.118.252/live/canal13stream_src.m3u8",
+			"nombreCanal": "RPC",
+			"urlImage": "https://upload.wikimedia.org/wikipedia/commons/7/77/Logo_de_RPC_2016.png"
+		}, {
+			"UrlCanal": "http://45.55.127.106/live/unicanal_src.m3u8",
+			"nombreCanal": "Unicanal",
+			"urlImage": "https://cdn.mitvstatic.com/channels/de161b6b-6495-4b7e-976e-df9da84a0409_m.jpg"
+		}, {
+			"UrlCanal": "https://d3kp7jkmvusdbk.cloudfront.net/py/smil:p9.smil/playlist.m3u8",
+			"nombreCanal": "C9N",
+			"urlImage": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Canal_9_Noticias.jpg"
+		}, {
+			"UrlCanal": "https://www.ustream.tv/embed/21235831?html5ui=1&autoplay=true",
+			"nombreCanal": "ABC TV",
+			"urlImage": "http://www.abc.com.py/plantillas/img/abctv-logo.png?0.201903281631"
+		}, {
+			"UrlCanal": "https://iframe.dacast.com/b/111090/c/476802",
+			"nombreCanal": "Noticias PY",
+			"urlImage": "https://upload.wikimedia.org/wikipedia/commons/0/01/Noticias_PY.png"
+		}, {
+			"UrlCanal": "https://livestream.com/accounts/25680986/events/8424381/player?width=640&height=360&enableInfoAndActivity=true&defaultDrawer=&autoPlay=true&mute=false%22",
+			"nombreCanal": "Paraguay TV",
+			"urlImage": "https://pbs.twimg.com/profile_images/1135556356772106240/nhAgXHt1_400x400.png"
+		}, {
+			"UrlCanal": "https://player.twitch.tv/?allowfullscreen&!branding&!channelInfo&!muted&autoplay&channel=mastvonline",
+			"nombreCanal": "+ Encarnación",
+			"urlImage": "http://www.masencarnacion.com/assets/img/logo.png"
+		}, {
+			"UrlCanal": "https://59ce1298bfb98.streamlock.net/unity/unity/chunklist_w1274135261.m3u8",
+			"nombreCanal": "TV Lambaré",
+			"urlImage": "http://www.vcc.com.py/img/tv-lambare.png"
+		}, {
+			"UrlCanal": "https://59ce1298bfb98.streamlock.net/centraltv/centraltv/chunklist_w819781354.m3u8",
+			"nombreCanal": "Central TV",
+			"urlImage": "http://paraguayonline.net/wp-content/uploads/2018/12/centraltv.jpg"
+		}, {
+			"UrlCanal": "https://59c5c86e10038.streamlock.net/8028/8028/chunklist_w1066522455.m3u8",
+			"nombreCanal": "Koa TV",
+			"urlImage": "https://www.koaradio.net/index_htm_files/111.jpg"
+		}, {
+			"UrlCanal": "https://iframe.dacast.com/b/111090/c/475792",
+			"nombreCanal": "La Tele",
+			"urlImage": "https://www.latele.com.py/sximo/images/logo.png"
+		}, {
+			"UrlCanal": "https://5bec49ed6f0fe.streamlock.net/live/_definst_/ngrp:GEN_all/chunklist_w250538781_b5382144.m3u8",
+			"nombreCanal": "GEN TV",
+			"urlImage": "http://www.okparaguay.com/wp-content/uploads/2018/05/gen-1024x535.jpg"
+		}, {
+			"UrlCanal": "https://59ce1298bfb98.streamlock.net/rcctv02/rcctv02/chunklist_w351848598.m3u8",
+			"nombreCanal": "RCC",
+			"urlImage": "https://rcc.com.py/wp-content/uploads/2018/10/logo-retina-544x180-300x99.png"
+		}, {
+			"UrlCanal": "https://59ce1298bfb98.streamlock.net:443/lobotv/lobotv/playlist.m3u8",
+			"nombreCanal": "Lobo TV",
+			"urlImage": "https://lobotv.com.py/gallery_gen/eb7412e3d622939bd8c90bf805701ab5_130x85.png"
+		}, {
+			"UrlCanal": "http://201.217.3.212/TV/tvs/playlist.m3u8",
+			"nombreCanal": "TVS",
+			"urlImage": "https://cdn.mitvstatic.com/channels/38cd68ce-1bd2-4cdc-a7f4-8989be8f6291_m.jpg"
+		}, {
+			"UrlCanal": "http://rds3.desdeparaguay.net/venusmedia/venusmedia/chunklist_w1808637968.m3u8",
+			"nombreCanal": "Venus Media",
+			"urlImage": "http://venus.com.py/wp-content/themes/venusmedia/images/logos/logo-nav.png"
+		}, {
+			"UrlCanal": "http://159.203.148.226/live/farra_src.m3u8",
+			"nombreCanal": "Farra TV",
+			"urlImage": "https://pbs.twimg.com/profile_images/1084854478203965442/2F3KDa1S_normal.jpg"
+		}, {
+			"UrlCanal": "http://54.94.130.159:1935/live/_definst_/ngrp:heistream_all/playlist.m3u8",
+			"nombreCanal": "Hei Música",
+			"urlImage": "http://heimusica.com/wp-content/uploads/2017/04/campa.png"
+		}],
+		"categoria": "Paraguay",
+		"descripcion": "Canales del Paraguay",
+		"urlImagen": "https://www.frigochaco.com.py/media/images/tricolor.width-800.jpg"
+	},
+	{
+		"canales": [{
+			"UrlCanal": "http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8",
+			"nombreCanal": "BHTV",
+			"urlImage": "https://pbs.twimg.com/profile_images/3663601877/9f46b5977e2c9d2e370e46d686a95ef7_400x400.jpeg"
+		}, {
+			"UrlCanal": "https://v8.ciclano.io:1443/visionnoticias/_definst_/visionnoticias/chunklist_w796291857.m3u8",
+			"nombreCanal": "VNP",
+			"urlImage": "http://www.visiontv.com.pe/vnp.pe/images/test/logo_23.png"
+		}, {
+			"UrlCanal": " https://v8.ciclano.io:1443/visionmusica/_definst_/visionmusica/chunklist_w838516394.m3u8",
+			"nombreCanal": "Vision TV",
+			"urlImage": "http://www.visiontv.com.pe/vns.pe/images/icons/logo%20de%20vision%20tv%20.png"
+		}],
+		"categoria": "Perú",
+		"descripcion": "Canales de Perú",
+		"urlImagen": "https://www.comprarbanderas.es/images/banderas/400/143-peru_400px.jpg"
+	}, {
+		"canales": [{
+			"UrlCanal": "http://wow01.105.net/live/virgin1/chunklist_w25732073.m3u8",
+			"nombreCanal": "Virgin TV music",
+			"urlImage": "https://i3.radionomy.com/radios/400/48a8df4c-f063-4b46-8e1b-b5a1e65ed446.jpg"
+		}],
+		"categoria": "Reino Unido",
+		"descripcion": "Canales del Reino Unido",
+		"urlImagen": "https://turismo.org/wp-content/uploads/2010/09/Bandera-del-Reino-Unido-760x400.png"
+	}, {
+		"canales": [{
+			"UrlCanal": "http://wowza.montevideo.com.uy:1936/live/_definst_/mvdstrem/chunklist_w1488231185.m3u8",
+			"nombreCanal": "Cana M URU",
+			"urlImage": "http://www.montevideo.com.uy/plantillas/temas17/canal-M-17/images/canalm@3.png"
+		}],
+		"categoria": "Uruguay",
+		"descripcion": "Canales del Uruguay",
+		"urlImagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/1200px-Flag_of_Uruguay.svg.png"
+	}, {
+		"canales": [{
+			"UrlCanal": "https://59f1cbe63db89.streamlock.net:1443/dgrau/_definst_/dgrau/chunklist_w755952391.m3u8",
+			"nombreCanal": "All Sports",
+			"urlImage": "http://directostv.teleame.com/wp-content/uploads/2018/02/all-sports-100x70.png"
+		}, {
+			"UrlCanal": "http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on",
+			"nombreCanal": "Real Madrid TV",
+			"urlImage": "https://www.realmadrid.com/StaticFiles/RealMadridResponsive/images/header_logo.png"
+		}, {
+			"UrlCanal": "https://cdnlive.shooowit.net/rbetislive/smil:television.smil/playlist.m3u8",
+			"nombreCanal": "Betis TV HD",
+			"urlImage": "http://graph.facebook.com/realbetisbalompie/picture?width=320&height=320"
+		}, {
+			"UrlCanal": "https://open.http.mp.streamamg.com/p/3001314/sp/300131400/playManifest/entryId/0_ye0b8tc0/format/applehttp/protocol/https/uiConfId/30026292/a.m3u8",
+			"nombreCanal": "Sevilla TV",
+			"urlImage": "http://graph.facebook.com/sevillafc/picture?width=320&height=320"
+		}, {
+			"UrlCanal": "http://sv1.futbollibre.net/tyc.html?310qns",
+			"nombreCanal": "TYC Sports",
+			"urlImage": "http://www.tvargentinahd.com/img/tycsport.png"
+		}, {
+			"UrlCanal": "https://cerbot.kastream.biz/edge/vera45bc3d346d4f9382f9fa6df54ece88c/chunks.m3u8",
+			"nombreCanal": "ESPN Brasil",
+			"urlImage": "https://img2.freepng.es/20181115/fbw/kisspng-espn-brasil-logo-espn-films-espn-inc-espn-play-claro-woodcrafts-5bed2bcd0337b3.2191231215422699010132.jpg"
+		}, {
+			"UrlCanal": "http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8",
+			"nombreCanal": "MLB TV",
+			"urlImage": "http://www.brandemia.org/sites/default/files/inline/images/movistar_plus-logo.jpg"
+		}, {
+			"UrlCanal": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8",
+			"nombreCanal": "Red Bull TV",
+			"urlImage": "http://www.brandemia.org/sites/default/files/inline/images/movistar_plus-logo.jpg"
+		}, {
+			"UrlCanal": "https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8",
+			"nombreCanal": "Fox Sports News",
+			"urlImage": "https://pbs.twimg.com/profile_images/572924972104839168/QfSnx_Mu_400x400.png"
+
+
+		}],
+		"categoria": "Deportes",
+		"descripcion": "Canales de Deportes",
+		"urlImagen": "https://trucoslondres.com/wp-content/uploads/2017/04/Sports-9.png"
+	}
 ]
