@@ -7,7 +7,7 @@
 		"id": 1,
 		"urlImage": "SNT",
 		"nombreCanal": "SNT",
-		"urlCanal": "SNT"
+		"urlCanal": "https://player.twitch.tv/?allowfullscreen&!branding&!channelInfo&!muted&autoplay&channel=snt003"
 	}, {
 		"id": 2,
 		"urlImage": "RPC",
