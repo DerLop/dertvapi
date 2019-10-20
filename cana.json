@@ -1,0 +1,38 @@
+[{
+	"id": 1,
+	"categoria": "Paraguay",
+	"urlImagen": "Paraguay",
+	"descripcion": "Paraguay",
+	"canalParsers": [{
+		"id": 1,
+		"urlImage": "SNT",
+		"nombreCanal": "SNT",
+		"urlCanal": "SNT"
+	}, {
+		"id": 2,
+		"urlImage": "RPC",
+		"nombreCanal": "RPC",
+		"urlCanal": "RPC"
+	}, {
+		"id": 3,
+		"urlImage": "UNICANAL",
+		"nombreCanal": "UNICANAL",
+		"urlCanal": "UNICANAL"
+	}]
+}, {
+	"id": 2,
+	"categoria": "Argentina",
+	"urlImagen": "Argentina",
+	"descripcion": "Argentina",
+	"canalParsers": [{
+		"id": 4,
+		"urlImage": "A24",
+		"nombreCanal": "A24",
+		"urlCanal": "A24"
+	}, {
+		"id": 5,
+		"urlImage": "EL13",
+		"nombreCanal": "EL13",
+		"urlCanal": "EL13"
+	}]
+}]
