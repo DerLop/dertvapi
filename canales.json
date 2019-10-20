@@ -297,9 +297,23 @@
 			"nombreCanal": "Fox Sports 3",
 			"urlImage": "https://img.pngtube.com/myfile/small/19-196357_fox-sports-3-logo-fox-sports-3-logo.png"
 
+		},{
+			"UrlCanal": "http://cablegratishd.com/livetv/laliga-envivo.html",
+			"nombreCanal": "La Liga",
+			"urlImage": "https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.jpg"
+
 		}],
 		"categoria": "Deportes",
 		"descripcion": "Canales de Deportes",
 		"urlImagen": "https://trucoslondres.com/wp-content/uploads/2017/04/Sports-9.png"
+	},{
+		"canales": [{
+			"UrlCanal": "http://cablegratishd.com/livetv/fox-envivo.html",
+			"nombreCanal": "FOX",
+			"urlImage": "https://banner2.cleanpng.com/20180712/zhq/kisspng-fox-broadcasting-company-television-channel-fox-ne-fox-5b46e72b42b032.5298644215313733552732.jpg"
+		}],
+		"categoria": "Entretenimiento",
+		"descripcion": "Canales de Entretenimiento",
+		"urlImagen": "https://img.freepik.com/vector-gratis/personajes-personas-sosteniendo-ilustracion-iconos-multimedia_53876-35228.jpg?size=626&ext=jpg"
 	}
 ]
