@@ -3,7 +3,7 @@
 	"categoria": "Paraguay",
 	"urlImagen": "Paraguay",
 	"descripcion": "Paraguay",
-	"canalParsers": [{
+	"canales": [{
 		"id": 1,
 		"urlImage": "SNT",
 		"nombreCanal": "SNT",
@@ -24,7 +24,7 @@
 	"categoria": "Argentina",
 	"urlImagen": "Argentina",
 	"descripcion": "Argentina",
-	"canalParsers": [{
+	"canales": [{
 		"id": 4,
 		"urlImage": "A24",
 		"nombreCanal": "A24",
