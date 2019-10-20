@@ -285,7 +285,17 @@
 		}, {
 			"UrlCanal": "http://cablegratishd.com/livetv/foxsports-envivo.html",
 			"nombreCanal": "Fox Sports",
-			"urlImage": "https://pbs.twimg.com/profile_images/572924972104839168/QfSnx_Mu_400x400.png"
+			"urlImage": "https://upload.wikimedia.org/wikipedia/en/thumb/0/07/FoxSports1.png/200px-FoxSports1.png"
+
+		},{
+			"UrlCanal": "http://cablegratishd.com/livetv/foxsports2-envivo.html",
+			"nombreCanal": "Fox Sports 2",
+			"urlImage": "https://cdn.imgbin.com/22/4/13/imgbin-fox-sports-1-ultimate-fighting-championship-fox-sports-2-speed-fox-sports-sun-maS40gAv0sRzRyDALX1ExQ9E2.jpg"
+
+		},{
+			"UrlCanal": "http://cablegratishd.com/livetv/foxsports3-envivo.html",
+			"nombreCanal": "Fox Sports 3",
+			"urlImage": "https://img.pngtube.com/myfile/small/19-196357_fox-sports-3-logo-fox-sports-3-logo.png"
 
 		}],
 		"categoria": "Deportes",
