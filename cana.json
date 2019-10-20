@@ -17,7 +17,7 @@
 		"id": 3,
 		"urlImage": "UNICANAL",
 		"nombreCanal": "UNICANAL",
-		"urlCanal": "UNICANAL"
+		"urlCanal": "http://45.55.127.106/live/unicanal_src.m3u8"
 	}]
 }, {
 	"id": 2,
